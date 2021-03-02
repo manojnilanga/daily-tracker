@@ -1,0 +1,22 @@
+.top-bar {
+  margin: 0;
+  padding-top: 20px;
+}
+
+.top-name{
+  margin: 0;
+  margin-left: 15px;
+}
+
+.top-bar-button{
+  margin-top: 15px;
+}
+
+.register-modal-labels{
+  width: 30%;
+  display:inline-block
+}
+
+.register-modal-inputs{
+  width: 60%;
+}
